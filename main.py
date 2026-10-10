@@ -5,8 +5,8 @@
 last_10_messages = []
 
 import openai
-API_TG = "5998911587:AAGyuMkMLOFsbYdibrB-3XL0-CS4C29VYfE"
-API_OPENAI = "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"
+API_TG = ""
+API_OPENAI = ""
 ENDPOINT = "https://api.openai.com/v1/engines/text-davinci-002/jobs"
 openai.api_key = API_OPENAI
 
